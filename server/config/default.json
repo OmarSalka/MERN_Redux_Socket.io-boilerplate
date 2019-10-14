@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://spypy:SpyFall_1@spypy-evh5x.mongodb.net/test?retryWrites=true&w=majority"
+}
